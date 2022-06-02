@@ -1,6 +1,6 @@
 [
     {
-        "link": "?http://fast.myworldiptv.xyz/live/ipl/test/36564.ts|cnf-name:aosts",
+        "link": "?https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/mpds/11331.mpd|User-Agent:AOS TV|drm-type:0|drm-url:https://widevine-proxy.appspot.com/proxy",
         "channel_id": "1",
         "source_url": "",
         "link_description": "",
